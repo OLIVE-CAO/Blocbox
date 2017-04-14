@@ -148,8 +148,8 @@ header nav ul {
  /* BENEFITS */
  .benefits {
    text-align: center;
-   display:block;
-   position:relative;
+   display: block;
+   position: relative;
  }
  .benefits ul {
    margin: 0 auto;
@@ -284,10 +284,22 @@ header nav ul {
  }
 
  
-
-
-
-
+ /* FOOTER */
+ .footer {
+   background: url("../images/footerBK.png");
+   color: #FFFFFF;
+   text-align: center;
+   display: block;
+   position: relative;
+ }
+ .footer ul {
+   margin: 0;
+   padding:2em;
+ }
+ .footer ul li {
+   list-style-type: none;
+   display: inline-block;
+ }
 
 
 
